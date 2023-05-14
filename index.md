@@ -61,7 +61,7 @@ To use this website in assetto corsa content manager please enter the link of th
 |Link|Car|Year|
 |:-:|:-:|:-:|
 |[DOWNLOAD](https://drive.google.com/file/d/1QtUvNzu0M9MG83BNM2VCNv2NYcGm3Jbk/view?usp=share_link)| MK6 Golf GTI | 2004
-|Nothing||
+|Nothing|ed|
 
 ## Mods
 ### CSP 1.8 Preview
@@ -76,6 +76,14 @@ SOL allows for a real weather simulation to be added to the game while the base 
 ### Shortcut Extension
 [Local Download](content/shortcut.zip)
 Adds `ctrl+b `command to send driver back to the pits.
+
+### Download Here
+|Mod|Local Download|Online Download|
+|:-:|:-:|:-:|
+|Pure|[Download](content/pure.zip)|x|
+|CSP 1.8|[Download](content/csp.zip)|x|
+|SOL 2.77|[Download](content/sol.zip)|x|
+|Shortcuts Extension|[Download](content/shortcut.zip)|x|
 
 ## Tracks
 
