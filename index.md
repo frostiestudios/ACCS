@@ -52,11 +52,12 @@ To use this website in assetto corsa content manager please enter the link of th
 |:-:|:-:|:-:|
 [Download](https://mega.nz/file/9MhRUQaD#HX6vGD6MqmRE3MmC6Eb9vriGTDi3lE1eZsB97Engcdk)|GT|x|
 [Download](https://drive.google.com/file/d/1HDCcBHFPdYHlEM_t6RYfJbgRg8d7qn9q/view?usp=share_link)|GT|x|
+
 ### Maserati
 |Link|Car|Year|
 |:-:|:-:|:-:|
 [Download](https://mega.nz/file/AeJTiKzD#1Bm3ZNeKmbIc0lCoFqFir6cJac3b7C9FN97RR8vipcA)|-|-|
-
+[Download](content/mc20.rar)|MC20|2022
 ### VW
 |Link|Car|Year|
 |:-:|:-:|:-:|
